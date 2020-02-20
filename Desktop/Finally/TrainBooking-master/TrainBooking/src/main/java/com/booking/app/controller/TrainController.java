@@ -1,5 +1,5 @@
 package com.booking.app.controller;
-// latest commit
+// just checking latest commit 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
